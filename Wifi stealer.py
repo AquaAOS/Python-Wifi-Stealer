@@ -6,7 +6,7 @@ import requests
 
 
 #Stealer URL
-x = open('data.json')
+x = open('settings.json')
 data = json.load(x)
 url = data["url"]
 
