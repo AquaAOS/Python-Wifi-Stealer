@@ -4,6 +4,6 @@ Windows only. Writes passwords to ``passwords.txt`` in the current working direc
 
 ## Usage
 1) Install the dependencies using ``pip install -r requirements.txt``.
-2) Set the webhook URL using the ``url`` variable at the top of the file.
+2) Set the webhook URL using the ``url`` variable in ``settings.json``.
 Then simply run the script!
 
