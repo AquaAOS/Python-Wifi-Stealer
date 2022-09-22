@@ -4,4 +4,5 @@ Windows only. Writes passwords to ``passwords.txt`` in the current working direc
 
 ## Usage
 Set the webhook URL using the ``url`` variable at the top of the file.
+Then simply run the script!
 
