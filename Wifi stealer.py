@@ -2,9 +2,7 @@
 import subprocess
 import os
 import sys
-#pip install requests
 import requests
-
 
 
 
